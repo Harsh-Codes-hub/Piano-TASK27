@@ -161,7 +161,7 @@ or simply double-click **index.html**
 
 _Interactive piano with animated notes and multi-octave support._
 
-<!-- ![Preview Video](./preview.gif) -->
+![Preview Video](./preview.gif)
 
 ---
 
