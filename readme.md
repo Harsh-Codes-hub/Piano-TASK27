@@ -177,9 +177,9 @@ _Interactive piano with animated notes and multi-octave support._
 
 ## 👨‍💻 Author
 
-**Cohort 2.0 – Batch Task 27 Submission**
-Created by **Harsh Gajrani** (_Harsh Codes Hub_)
-Part of the **Cohort 2.0 batch at Sheryians Coding School**
+**Cohort 2.0 – Batch Task 27 Submission**  
+Created by **Harsh Gajrani** (_Harsh Codes Hub_)  
+Part of the **Cohort 2.0 batch at Sheryians Coding School**  
 
 Focused on **interactive UI, audio systems, keyboard accessibility, and user experience design**
 
