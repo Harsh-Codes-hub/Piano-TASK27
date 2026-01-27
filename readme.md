@@ -39,6 +39,7 @@ Piano-TASK27/
 ├── style.scss          # SCSS source (piano UI & animations)
 ├── script.js           # Piano logic & audio handling
 ├── preview.mp4         # Demo preview video
+├── preview.gif         # Demo preview gif
 │
 ├── /audio              # Individual note audio files
 │   ├── C1.mp3
@@ -160,7 +161,7 @@ or simply double-click **index.html**
 
 _Interactive piano with animated notes and multi-octave support._
 
-![Preview Video](./preview.mp4)
+<!-- ![Preview Video](./preview.gif) -->
 
 ---
 
